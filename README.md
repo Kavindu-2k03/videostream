@@ -61,5 +61,10 @@ python3 -m Bot
 
 <a href="https://t.me/lntechnicalgroup"><img src="https://img.shields.io/badge/Support_Group-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://t.me/lntechnical"><img src="https://img.shields.io/badge/Updates_Channel-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
+## Deploy
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FKavindu-2k03%2Fvideostream)
+
+
+
 
 
